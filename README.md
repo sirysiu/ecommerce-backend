@@ -10,4 +10,3 @@ I did a npm i, then npm run and npm run launch to deploy on HTTPIE.
 Demonstration of Ecommerce Backend.
 Watch a [video](./examples/ecommercebackend.mp4) demonstration of the basic functionality:
 
-![Screenshot of ECOMMERCE](./examples/screenshot.png)
